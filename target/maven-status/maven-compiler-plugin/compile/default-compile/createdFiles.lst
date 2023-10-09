@@ -1,0 +1,14 @@
+com\example\faceid\Entity\userTg.class
+com\example\faceid\Repos\usersRepo.class
+com\example\faceid\Service\userService.class
+com\example\faceid\Entity\logs.class
+com\example\faceid\Entity\logReciever.class
+com\example\faceid\Controller\gettingLogs.class
+com\example\faceid\Bot\BotConfig.class
+com\example\faceid\Bot\TelegramBot.class
+com\example\faceid\Repos\userTgRepo.class
+com\example\faceid\FaceIdApplication.class
+com\example\faceid\Bot\BotInitilizer.class
+com\example\faceid\Controller\Controller.class
+com\example\faceid\WebConfig.class
+com\example\faceid\Entity\users.class
